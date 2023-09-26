@@ -18,9 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Tech stacks
 
-Next JS
-Next-auth(Github OAuth, Credentials auth)
-TailwindCSS
+### Next JS
+### Next-auth(Github OAuth, Credentials auth)
+### TailwindCSS
+### MongoDB
 
 ![Screenshot 2023-09-26 164846](https://github.com/kiran0022/Blackbox/assets/68956041/79f6346e-d83c-4799-b899-88eeac8b8f91)
 
