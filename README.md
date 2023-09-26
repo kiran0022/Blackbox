@@ -16,21 +16,22 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Tech stacks
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Next JS
+Next-auth(Github OAuth, Credentials auth)
+TailwindCSS
 
-## Learn More
+![Screenshot 2023-09-26 164846](https://github.com/kiran0022/Blackbox/assets/68956041/79f6346e-d83c-4799-b899-88eeac8b8f91)
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot 2023-09-26 164941](https://github.com/kiran0022/Blackbox/assets/68956041/39dfec32-24ad-4a8a-9c14-fcc022989e74)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Screenshot 2023-09-26 165013](https://github.com/kiran0022/Blackbox/assets/68956041/c970dc74-db1b-442f-917d-e2b2f71dc5d7)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot 2023-09-26 165103](https://github.com/kiran0022/Blackbox/assets/68956041/7da84a9c-ece1-4c1b-a9fc-2a663d51242e)
 
-## Deploy on Vercel
+![Screenshot 2023-09-26 165207](https://github.com/kiran0022/Blackbox/assets/68956041/dd2815d1-3d32-43fc-a748-94cd63f25a2a)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot 2023-09-26 165307](https://github.com/kiran0022/Blackbox/assets/68956041/922ae06b-7e29-402f-988d-47f0289aee08)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot 2023-09-26 165333](https://github.com/kiran0022/Blackbox/assets/68956041/61d981e7-02a6-433d-87d9-93a7cf41e61a)
